@@ -1,4 +1,4 @@
-# MMC_VTOL_BI-ROTOR_UAV
+# MMC_VTOL_BI-ROTOR_UAV | 1DOF Test Bed
 This folder contains the cad files of the 1DOF moving mass test bed which is designed for testing the actuator and controller
 
 ![alt text](https://github.com/shahind/Moving-Mass-Controlled-VTOL-Bi-Rotor-UAV/raw/main/Test%20Bed/overal.png)
