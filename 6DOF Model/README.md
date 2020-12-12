@@ -1,4 +1,4 @@
-# MMC_VTOL_BI-ROTOR_UAV | 1DOF Test Bed
+# MMC_VTOL_BI-ROTOR_UAV | 6DOF Simulink Model
 This folder contains the 6DOF simulink model of a Moving Mass Controlled VTOL Bi-Rotor UAV which is developed in the following paper.
 
 
