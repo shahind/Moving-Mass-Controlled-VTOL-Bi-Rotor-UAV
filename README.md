@@ -1,6 +1,8 @@
 # MMC_VTOL_BI-ROTOR_UAV
 A Novel Concept of A VTOL Bi-Rotor UAV Based on Moving Mass Control
 
+![alt text](https://github.com/shahind/Moving-Mass-Controlled-VTOL-Bi-Rotor-UAV/overal.png?raw=true)
+
 This repository contains the 6DoF MATLAB Symulink model, CAD files of prototype and 1DoF testbed of a novel moving mass controlled bi-rotor VTOL UAV,
 for more information about the UAV and mathematical modeling, please read the paper:
 https://www.sciencedirect.com/science/article/abs/pii/S1270963820309202?dgcid=author
