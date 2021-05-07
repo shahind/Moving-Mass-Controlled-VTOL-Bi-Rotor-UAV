@@ -1,2 +1,0 @@
-Do not delete this file! It is used for 
-detecting image file changes.
