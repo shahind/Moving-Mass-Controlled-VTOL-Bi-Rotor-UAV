@@ -4,7 +4,7 @@
 <head>
 </head>
 <Scene>
-<Transform DEF='drone'  translation='0 5.03216 -0' scale='100 100 100' rotation='0 1 0 0'>
+<Transform DEF='drone'  translation='0 -0.125955 -0' scale='100 100 100' rotation='0 1 0 0'>
   <Shape>
     <Appearance>
       <Material ambientIntensity='0.5'>
@@ -76,5 +76,9 @@
     </Box>
   </Shape>
 </Transform>
+<Viewpoint DEF='side'  description='side' position='14.4281 3.28416 -0.00750309' orientation='-0.0639569 0.995172 0.0744414 1.57535' fieldOfView='0.785398'>
+</Viewpoint>
+<Viewpoint DEF='top'  description='top' position='-1.84248 41.7168 -1.07846' orientation='-0.58555 0.574927 0.57148 2.1117' fieldOfView='0.785398'>
+</Viewpoint>
 </Scene>
 </X3D>
