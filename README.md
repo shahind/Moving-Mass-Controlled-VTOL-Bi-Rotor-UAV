@@ -11,3 +11,11 @@ please cite the project as :
 
 **S. Darvishpoor, J. Roshanian, and M. Tayefi, “A novel concept of VTOL bi-rotor UAV based on moving mass control,” Aerospace Science and Technology, vol. 107, p. 106238, Dec. 2020, doi: 10.1016/j.ast.2020.106238.**
 
+## 6DOF 3d simulation
+![alt text](https://github.com/shahind/Moving-Mass-Controlled-VTOL-Bi-Rotor-UAV/raw/main/shots.png)
+
+Hover flight with wind:  
+
+
+https://user-images.githubusercontent.com/10776307/133927872-76592cae-6c6b-4ae0-ac39-a1271e1f72f1.mp4
+
