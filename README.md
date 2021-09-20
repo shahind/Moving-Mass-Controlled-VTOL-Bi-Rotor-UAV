@@ -19,3 +19,8 @@ Hover flight with wind:
 
 https://user-images.githubusercontent.com/10776307/133927872-76592cae-6c6b-4ae0-ac39-a1271e1f72f1.mp4
 
+## Printable Prototype CAD model
+![Prototype CAD model](https://github.com/shahind/Moving-Mass-Controlled-VTOL-Bi-Rotor-UAV/raw/main/Prototype%20CAD/overal.png)
+
+## Printable 1DOF Testbed and Linear Servo Mechanism
+![1DOF Testbed](https://github.com/shahind/Moving-Mass-Controlled-VTOL-Bi-Rotor-UAV/raw/main/Test%20Bed%20CAD/overal.png)
