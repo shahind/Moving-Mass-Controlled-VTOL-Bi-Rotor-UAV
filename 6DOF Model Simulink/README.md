@@ -10,8 +10,11 @@ please cite the project as :
 
 **S. Darvishpoor, J. Roshanian, and M. Tayefi, “A novel concept of VTOL bi-rotor UAV based on moving mass control,” Aerospace Science and Technology, vol. 107, p. 106238, Dec. 2020, doi: 10.1016/j.ast.2020.106238.**
 
-**note:
-You can change the initial values from init callback (InitFcn) of the "MMC Bi-Rotor UAV" block:
+https://user-images.githubusercontent.com/10776307/134034052-e9379b01-2e93-4758-a07f-4f362ee92938.mp4
+
+**note:  
+You can change the initial values from init callback (InitFcn) of the "MMC Bi-Rotor UAV" block:  
+```
 %Initial Parameters
 M_m          %MM mass
 M_b          %Body mass
@@ -33,5 +36,5 @@ init_X       %Initial position in inertial axes
 init_V       %Initial velocity in body axes (u v w)
 init_O       %Initial Euler oriantation (phi theta say)
 init_R       %Initial body rotation rates (p q r)
-
+```
 In order to access callbacks: right click on the block and select propertise then choose Callbacks tab and find InitFcn.
