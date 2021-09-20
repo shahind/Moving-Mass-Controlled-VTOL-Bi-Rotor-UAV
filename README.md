@@ -1,4 +1,4 @@
-# MMC_VTOL_BI-ROTOR_UAV
+# MOVING MASS CONTROLLED VTOL BI-ROTOR UAV
 A Novel Concept of A VTOL Bi-Rotor UAV Based on Moving Mass Control
 
 ![alt text](https://github.com/shahind/Moving-Mass-Controlled-VTOL-Bi-Rotor-UAV/raw/main/motions.png)
