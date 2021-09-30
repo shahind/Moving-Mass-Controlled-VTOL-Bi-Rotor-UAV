@@ -1,0 +1,227 @@
+#VRML V2.0 utf8
+
+Background {
+  skyColor 1 1 1
+  skyAngle [1.39626, 1.51844]
+  groundColor 1 1 1
+  groundAngle [1.3, 1.5708]
+}
+SpotLight {
+  location 0 50 50
+  cutOffAngle 1.5708
+  beamWidth 0.7854
+}
+DEF Pic_0001 Transform {
+  children Transform {
+    rotation 1 0 0 1.5708
+    children Transform {
+      children Shape {
+        appearance Appearance {
+          texture ImageTexture {
+            url "top.jpg" 
+          }
+          material Material {
+            diffuseColor 1 1 1
+          }
+        }
+        geometry IndexedFaceSet {
+          solid FALSE
+          normalIndex [
+            0, 0, 0, 0, -1 
+          ]
+          coordIndex [
+            0, 1, 2, 3, -1 
+          ]
+          normal Normal {
+            vector 0 0 1
+          }
+          coord Coordinate {
+            point [
+              -10.0781 10.0781 0,
+              -10.0781 -10.078 0,
+              10.0781 -10.078 0,
+              10.0781 10.0781 0 
+            ]
+          }
+        }
+      }
+    }
+  }
+}
+DEF servo3 Transform {
+  translation 8.75 0.1 0
+  scale 0.05 0.1 0.1
+  rotation 0 1 0 1.5708
+  children Transform {
+    rotation 1 0 0 1.5708
+    children Transform {
+      children Shape {
+        appearance Appearance {
+          texture ImageTexture {
+            url "servo.jpg" 
+          }
+          material Material {
+            diffuseColor 1 1 1
+          }
+        }
+        geometry IndexedFaceSet {
+          solid FALSE
+          normalIndex [
+            0, 0, 0, 0, -1 
+          ]
+          coordIndex [
+            0, 1, 2, 3, -1 
+          ]
+          normal Normal {
+            vector 0 0 1
+          }
+          coord Coordinate {
+            point [
+              -10.0781 10.0781 0,
+              -10.0781 -10.078 0,
+              10.0781 -10.078 0,
+              10.0781 10.0781 0 
+            ]
+          }
+        }
+      }
+    }
+  }
+}
+DEF top Viewpoint {
+  position 0 20 0
+  orientation 1 0 0 -1.5708
+  fieldOfView 1
+}
+DEF servo4 Transform {
+  translation 0 0.1 8.75
+  scale 0.05 0.1 0.1
+  rotation 0 1 0 0
+  children Transform {
+    rotation 1 0 0 1.5708
+    children Transform {
+      children Shape {
+        appearance Appearance {
+          texture ImageTexture {
+            url "servo.jpg" 
+          }
+          material Material {
+            diffuseColor 1 1 1
+          }
+        }
+        geometry IndexedFaceSet {
+          solid FALSE
+          normalIndex [
+            0, 0, 0, 0, -1 
+          ]
+          coordIndex [
+            0, 1, 2, 3, -1 
+          ]
+          normal Normal {
+            vector 0 0 1
+          }
+          coord Coordinate {
+            point [
+              -10.0781 10.0781 0,
+              -10.0781 -10.078 0,
+              10.0781 -10.078 0,
+              10.0781 10.0781 0 
+            ]
+          }
+        }
+      }
+    }
+  }
+}
+DEF servo2 Transform {
+  translation 0 0.1 -8.75
+  scale 0.05 0.1 0.1
+  rotation 0 1 0 3.14159
+  children Transform {
+    rotation 1 0 0 1.5708
+    children Transform {
+      children Shape {
+        appearance Appearance {
+          texture ImageTexture {
+            url "servo.jpg" 
+          }
+          material Material {
+            diffuseColor 1 1 1
+          }
+        }
+        geometry IndexedFaceSet {
+          solid FALSE
+          normalIndex [
+            0, 0, 0, 0, -1 
+          ]
+          coordIndex [
+            0, 1, 2, 3, -1 
+          ]
+          normal Normal {
+            vector 0 0 1
+          }
+          coord Coordinate {
+            point [
+              -10.0781 10.0781 0,
+              -10.0781 -10.078 0,
+              10.0781 -10.078 0,
+              10.0781 10.0781 0 
+            ]
+          }
+        }
+      }
+    }
+  }
+}
+DEF servo1 Transform {
+  translation -8.75 0.1 0
+  scale 0.05 0.1 0.1
+  rotation 0 1 0 -1.5708
+  children Transform {
+    rotation 1 0 0 1.5708
+    children Transform {
+      children Shape {
+        appearance Appearance {
+          texture ImageTexture {
+            url "servo.jpg" 
+          }
+          material Material {
+            diffuseColor 1 1 1
+          }
+        }
+        geometry IndexedFaceSet {
+          solid FALSE
+          normalIndex [
+            0, 0, 0, 0, -1 
+          ]
+          coordIndex [
+            0, 1, 2, 3, -1 
+          ]
+          normal Normal {
+            vector 0 0 1
+          }
+          coord Coordinate {
+            point [
+              -10.0781 10.0781 0,
+              -10.0781 -10.078 0,
+              10.0781 -10.078 0,
+              10.0781 10.0781 0 
+            ]
+          }
+        }
+      }
+    }
+  }
+}
+DEF cg Transform {
+  scale 0.5 0.5 0.5
+  children Shape {
+    appearance Appearance {
+      material Material {
+        diffuseColor 1 0 0
+      }
+    }
+    geometry Cylinder {
+    }
+  }
+}
